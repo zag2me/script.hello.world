@@ -15,5 +15,11 @@
 		<forum>http://forum.kodi.tv/showthread.php?tid=209948</forum>
 		<source>https://github.com/zag2me/script.hello.world</source>
 		<email>zag@kodi.org</email>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+		</assets>
+		<news>Updated the addon to use new addon.xml metadata</news>
 	</extension>
 </addon>
