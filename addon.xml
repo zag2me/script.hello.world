@@ -14,6 +14,7 @@
 		<language></language>
 		<forum>http://forum.kodi.tv/showthread.php?tid=209948</forum>
 		<source>https://github.com/zag2me/script.hello.world</source>
+		<website>Kodi.tv</website>
 		<email>zag@kodi.org</email>
 		<assets>
 			<icon>resources/icon.png</icon>
