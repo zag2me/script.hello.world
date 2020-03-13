@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.hello.world" name="Hello World" version="1.0.1" provider-name="zag">
+<addon id="script.hello.world" name="Hello World" version="1.0.2" provider-name="zag">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 	</requires>
@@ -9,7 +9,7 @@
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
 		<summary lang="en">Popup Hello World</summary>
-		<description lang="en">Example Script to show hello world</description>
+		<description lang="en">Example Script to show Hello World</description>
 		<license>GNU General Public License, v2</license>
 		<language></language>
 		<forum>http://forum.kodi.tv/showthread.php?tid=209948</forum>
